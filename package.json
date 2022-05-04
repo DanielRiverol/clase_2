@@ -1,0 +1,20 @@
+{
+  "name": "clase_2",
+  "version": "0.0.1",
+  "description": "Clase de node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "keywords": [
+    "Node",
+    "Calse",
+    "2"
+  ],
+  "author": "Dani",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
